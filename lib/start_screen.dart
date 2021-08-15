@@ -27,7 +27,7 @@ class Start extends StatelessWidget{
                                    fontSize: 50.0, fontFamily:'Poppins-Bold', fontWeight:FontWeight.bold ),
                             ),
                           Text(
-                            "Auis",
+                            "Sri",
                             style: TextStyle(
                                 fontSize: 50.0, fontFamily:'Poppins-Regular'),
                           )
