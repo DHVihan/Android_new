@@ -24,7 +24,7 @@ class Start extends StatelessWidget{
                            Text(
                                "Hello,",
                                style: TextStyle(
-                                   fontSize: 50.0, fontFamily:'Poppins-Bold', fontWeight:FontWeight.bold ),
+                                   fontSize: 50.0,color: Colors.white70, fontFamily:'Poppins-Bold', fontWeight:FontWeight.bold ),
                             ),
                           Text(
                             "Sri Lanka",
